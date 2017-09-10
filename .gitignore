@@ -1,3 +1,4 @@
+.DS_Store
 .ipynb_checkpoints/
 lsa-practice.ipynb
 aeneid-stops.ipynb
@@ -7,6 +8,4 @@ untitled.txt
 zipf-plautus.ipynb
 zipf.ipynb
 acrostics-Copy1.ipynb
-clustering.ipynb
-general.ipynb
-plot.png
+clustering.ipls
