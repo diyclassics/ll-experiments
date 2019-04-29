@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 jupyter = "==1.0.0"
-cltk = "==0.1.105"
 numpy = "==1.16.0"
 pandas = "==0.23.4"
 scikit-learn = "==0.20.2"
@@ -68,6 +67,7 @@ Pygments = "==2.3.1"
 PyYAML = "==3.13"
 Send2Trash = "==1.5.0"
 Whoosh = "==2.7.4"
+cltk = "*"
 
 [dev-packages]
 

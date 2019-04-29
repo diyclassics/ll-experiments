@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9420c86d58d80d6ed7f361b4b891cb8050d7312a2ac82c1232fb32cf78ea0225"
+            "sha256": "9525934f9b3e1d6da6eef5d70b564cbee8276de1c3051860e4127157ee2974ed"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -42,10 +42,10 @@
         },
         "cltk": {
             "hashes": [
-                "sha256:416e895b4870817475007ec2fa413d97f72a90ff85075b16c494d0967ef37822"
+                "sha256:734b5c8767cf426de0fa42368733b91337c420ec1939ab023eba7c523a1c8390"
             ],
             "index": "pypi",
-            "version": "==0.1.105"
+            "version": "==0.1.107"
         },
         "cycler": {
             "hashes": [
