@@ -10,6 +10,7 @@ scipy = "==1.2.0"
 matplotlib = "==3.0.2"
 cltk = {ref = "latin-sent-tok-update",git = "https://github.com/diyclassics/cltk.git"}
 natsort = "*"
+tqdm = "*"
 
 [dev-packages]
 jupyter = "*"
