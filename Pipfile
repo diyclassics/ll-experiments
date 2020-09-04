@@ -3,17 +3,17 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
-[packages]
-pandas = "==0.23.4"
-scikit-learn = "==0.20.2"
-scipy = "==1.2.0"
-matplotlib = "==3.0.2"
-cltk = {ref = "latin-sent-tok-update",git = "https://github.com/diyclassics/cltk.git"}
-natsort = "*"
-tqdm = "*"
-
 [dev-packages]
 jupyter = "*"
 
+[packages]
+pandas = "*"
+scikit-learn = "*"
+matplotlib = "*"
+scipy = "*"
+natsort = "*"
+tqdm = "*"
+cltk = "*"
+
 [requires]
-python_version = "3.7"
+python_version = "3.8"
