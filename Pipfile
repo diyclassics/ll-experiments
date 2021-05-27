@@ -5,6 +5,7 @@ name = "pypi"
 
 [dev-packages]
 jupyter = "*"
+tqdm = "*"
 
 [packages]
 pandas = "*"
@@ -12,8 +13,7 @@ scikit-learn = "*"
 matplotlib = "*"
 scipy = "*"
 natsort = "*"
-tqdm = "*"
-cltk = "*"
+cltk = "==0.1.121"
 
 [requires]
-python_version = "3.8"
+python_version = "3.9"
