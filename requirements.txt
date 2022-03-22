@@ -1,5 +1,6 @@
 appnope==0.1.2
 argon2-cffi==21.1.0
+asttokens==2.0.5
 attrs==21.2.0
 backcall==0.2.0
 bleach==4.1.0
@@ -11,11 +12,12 @@ debugpy==1.4.3
 decorator==5.0.9
 defusedxml==0.7.1
 entrypoints==0.3
+executing==0.8.3
 fonttools==4.28.5
 gitdb==4.0.7
 GitPython==3.1.18
 ipykernel==6.4.0
-ipython==7.27.0
+ipython==7.32.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.4
 jedi==0.18.0
@@ -47,10 +49,11 @@ pandocfilters==1.4.3
 parso==0.8.2
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==9.0.0
+Pillow==9.0.1
 prometheus-client==0.11.0
 prompt-toolkit==3.0.20
 ptyprocess==0.7.0
+pure-eval==0.2.2
 pycparser==2.20
 Pygments==2.10.0
 pyparsing==2.4.7
@@ -69,6 +72,7 @@ scipy==1.7.1
 Send2Trash==1.8.0
 six==1.16.0
 smmap==4.0.0
+stack-data==0.2.0
 terminado==0.12.1
 testpath==0.5.0
 threadpoolctl==2.2.0
