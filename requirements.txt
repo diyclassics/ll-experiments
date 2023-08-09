@@ -90,7 +90,7 @@ regex==2021.8.28
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 scikit-learn==0.24.2
-scipy==1.11.0
+scipy==1.11.1
 Send2Trash==1.8.0
 six==1.16.0
 smmap==4.0.0
